@@ -41,6 +41,7 @@
 }
 
 .btn-sign-up {
+    margin-top: 10px;
     display: block;
     width: 415px;
     height: 55px;
@@ -57,7 +58,11 @@
     text-align: center;
 }
 .already-account a {
-    color: rgba(255, 153, 0, 1)
-    ;
+    color: rgba(255, 153, 0, 1);
     text-decoration: none;
+}
+
+.text-danger{
+    color: red ;
+   text-align: center;
 }
